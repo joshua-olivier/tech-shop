@@ -1,0 +1,27 @@
+body {
+   margin: 0;
+   font-family: 'DM Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+.center {
+    padding: 200px 0;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    font-family:'DM Sans', sans-serif;
+    text-align: center;
+}
+
+.button1 {padding: 10px 24px;}

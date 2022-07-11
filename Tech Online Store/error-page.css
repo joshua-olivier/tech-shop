@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: 'DM Sans', sans-serif
+}
+
+/*Navbar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/*list position Navbar*/
+li {
+    float: left;
+}
+
+/*list style*/
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+
+
+/*Image inside body*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+}
+
+/*Biggest heading inside body*/
+h1 {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 1px;
+    margin-bottom: 14px;
+}
+
+/*heading inside body*/
+h3 {
+    text-align: center;
+}
+
+/*paragraph inside body*/
+p {
+    text-align: center;
+}
